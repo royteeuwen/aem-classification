@@ -1,4 +1,4 @@
-# AEM 2024.10.18099.20241003T125241Z
+# AEM 2025.8.22171.20250828T220440Z
 /,PUBLIC
 /libs/clientlibs/ckeditor,INTERNAL
 /libs/clientlibs/granite,INTERNAL
@@ -445,6 +445,8 @@
 /libs/dam/gui/coral/components/admin/adhocassetshare/linkexpired,INTERNAL
 /libs/dam/gui/coral/components/admin/adhocassetshare/myshares,INTERNAL
 /libs/dam/gui/coral/components/admin/adhocassetshare/userpicker,INTERNAL
+/libs/dam/gui/coral/components/admin/aimetadata,PUBLIC
+/libs/dam/gui/coral/components/admin/aimetadata/aimetadatarendercondition,PUBLIC
 /libs/dam/gui/coral/components/admin/annotation,PUBLIC
 /libs/dam/gui/coral/components/admin/annotation/clientlibs,INTERNAL
 /libs/dam/gui/coral/components/admin/annotation/comment,FINAL
